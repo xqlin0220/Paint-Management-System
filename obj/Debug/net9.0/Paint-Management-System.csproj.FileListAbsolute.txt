@@ -1,0 +1,15 @@
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/Paint-Management-System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/Paint-Management-System.AssemblyInfoInputs.cache
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/Paint-Management-System.AssemblyInfo.cs
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/Paint-Management-System.csproj.CoreCompileInputs.cache
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/Paint-Management-System.sourcelink.json
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/bin/Debug/net9.0/Paint-Management-System
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/bin/Debug/net9.0/Paint-Management-System.deps.json
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/bin/Debug/net9.0/Paint-Management-System.runtimeconfig.json
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/bin/Debug/net9.0/Paint-Management-System.dll
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/bin/Debug/net9.0/Paint-Management-System.pdb
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/Paint-Management-System.dll
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/refint/Paint-Management-System.dll
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/Paint-Management-System.pdb
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/Paint-Management-System.genruntimeconfig.cache
+/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/obj/Debug/net9.0/ref/Paint-Management-System.dll
