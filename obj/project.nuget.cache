@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VbMn9TQkBSM=",
+  "dgSpecHash": "BiLpxx9koKU=",
   "success": true,
   "projectFilePath": "/Users/xuqinglin/Downloads/bootcamp_course/backend/Paint-Management-System/Paint-Management-System.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/xuqinglin/.nuget/packages/microsoft.netcore.app.ref/9.0.17/microsoft.netcore.app.ref.9.0.17.nupkg.sha512",
+    "/Users/xuqinglin/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.17/microsoft.aspnetcore.app.ref.9.0.17.nupkg.sha512",
+    "/Users/xuqinglin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.17/microsoft.netcore.app.host.osx-arm64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
